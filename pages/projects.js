@@ -15,8 +15,8 @@ export default function Projects() {
                     It aims to create a dedicated marketplace that connects fashion designers, brands, and enthusiasts, enabling the seamless trade and ownership of unique digital fashion assets.
                     </p>
 
-                    <a href="" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2  mr-2 mt-2 rounded-md" >Site</a>
-                    <a href="" target="https://github.com/sanamumer/nftmarketplace" className="bg-gray-500 text-white font-small py-2 px-2 rounded-md">Code</a>
+                {/* <a href="" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2  mr-2 mt-2 rounded-md" >Site</a> */}
+                    <a href="https://github.com/sanamumer/nftmarketplace" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2 rounded-md">Code</a>
                 </div>
 
                 <div className="md:mt-2 md:w-1/2 p-4">
@@ -29,7 +29,6 @@ export default function Projects() {
 
                     </p>
 
-                    <a href="" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2  mr-2 mt-2 rounded-md" >Site</a>
                     <a href="https://gitlab.com/fabricdev/SanaMUmmer_ClassyFab" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2 rounded-md">Code</a>
                 </div>
 
@@ -40,7 +39,6 @@ export default function Projects() {
                     The platform aims to provide a secure, transparent, and efficient solution for buying, selling, and trading land assets via bidding.
                      Leveraging the capabilities of smart contracts and blockchain technology, enables participants to conduct land transactions with trust, immutability, and minimal intermediaries.
                     </p>
-                    <a href="" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2  mr-2 mt-2 rounded-md" >Site</a>
                     <a href="https://github.com/sanamumer/LandMarketplace" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2  rounded-md">Code</a>
                 </div>
 
@@ -50,7 +48,6 @@ export default function Projects() {
                     <img src='/port.png' alt="Market Landing Page" />
                     <p className="text-xl text-gray-500 mb-8">My custom portfolio site I built from scratch with Next JS & Tailwind CSS.
                     </p>
-                    <a href="" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2  mr-2 mt-2 rounded-md" >Site</a>
                     <a href="https://github.com/sanamumer/portfolio" target="_blank" className="bg-gray-500 text-white font-small py-2 px-2 rounded-md">Code</a>
                 </div>
 
