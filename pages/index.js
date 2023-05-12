@@ -25,7 +25,7 @@ export default function Home() {
             <div className="flex justify-center">
             <div className="w-full max-w-md">
               <Image
-                src="/ME.JPG"
+                src="/saaaa.JPG"
                 alt="sanamummer"
                 width={250}
                 height={250}
