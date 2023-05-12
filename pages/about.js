@@ -7,11 +7,15 @@ const skills = [
   { skill: "Express Js" },
   { skill: "MongoDb" },
   { skill: "Solidity" },
-  { skill: "React" },
-  { skill: "Next.js" },
+  { skill: "React Js" },
+  { skill: "Next Js" },
   { skill: "Tailwind CSS" },
   { skill: "Git" },
-  { skill: "GitHub" },
+  { skill: "Truffle" },
+  { skill: "Hardhat" },
+  { skill: "Ethereum" },
+  { skill: "Web3 Js" },
+  { skill: "Ethers Js" },
   { skill: "Hyperledger Fabric" },
 ]
 export default function About() {

@@ -15,10 +15,11 @@ export default function Home() {
             <p className="text-4xl sm:text-4xl font-extrabold leading-tight mb-4">
             Blockchain Developer
             </p>
-
+            <a href="/sanamummer_Resume.pdf">
             <button className="bg-gray-900 hover:bg-gray-700 text-white font-medium py-3 px-6 rounded-md transition-colors duration-300">
               Hire me
             </button>
+            </a>
             
             </div>
             <div className="flex justify-center">
