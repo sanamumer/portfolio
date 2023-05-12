@@ -25,8 +25,10 @@ export default function About() {
         About me
       </h1>
       <p className="text-xl text-gray-500 mb-8">
-             I am a blockchain developer with expertise in smart contract development, decentralized applications, and blockchain protocols. As a passionate blockchain enthusiast, 
-             I am driven to create innovative solutions that leverage the power of blockchain technology. I have participated in several hackathons and contributed to open-source blockchain projects, showcasing my skills in Solidity, Ethereum, and Hyperledger Fabric. If you are looking for a skilled blockchain developer, please feel free to contact me.
+      I am a blockchain developer with expertise in smart contract development, decentralized applications, and blockchain protocols. I am a passionate blockchain enthusiast who is driven to create innovative solutions that leverage the power of blockchain technology.
+    I have participated in several hackathons and contributed to open-source blockchain projects. I have a strong understanding of Solidity, Ethereum, and Hyperledger Fabric.
+    I am confident that I can use my skills and experience to help you achieve your blockchain goals.
+<br></br><br></br> If you are looking for a skilled blockchain developer, please feel free to contact me.
       </p>
       <h1 className="text-4xl sm:text-5xl font-extrabold leading-tight mt-16 md:mt-24 mb-8">
         Skills
